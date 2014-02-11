@@ -1,4 +1,4 @@
 football
 ========
 
-This is just a demo
+This is the first version of the football project.
