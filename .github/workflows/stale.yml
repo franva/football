@@ -7,7 +7,7 @@ name: Mark stale issues and pull requests
 
 on:
   schedule:
-  - cron: '38 13 * * *'
+  - cron: '42 12 * * *'
     timezone: 'Australia/Sydney'
 
 jobs:
