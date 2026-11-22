@@ -9,10 +9,10 @@ on:
   schedule:
   - cron: '42 12 * * *'
     timezone: 'Australia/Sydney'
+  workflow_dispatch: 
 
 jobs:
   stale:
-
     runs-on: ubuntu-latest
     permissions:
       issues: write
